@@ -6,7 +6,7 @@
   "repository": "git@github.com:moughamir/watch8.git",
   "author": "Mohamed Moughamir <moughamir@gmail.com>",
   "dependencies": {
-    "async": "~0.2.8",
+    "async": "~0.9.0",
     "express": "~3.11.0",
     "socket.io": "~0.9.14"
   },
